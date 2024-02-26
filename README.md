@@ -55,7 +55,7 @@ function test() {
 }
 
 ```
-[Link to A First Level Heading](a-first-level-heading)
+
 
 <!-- Tip: To preserve your formatting within a list, make sure to indent non-fenced code blocks by eight spaces. -->
 <!-- To display triple backticks in a fenced code block, wrap them inside quadruple backticks. -->
@@ -83,3 +83,4 @@ puts markdown.to_html
 This site was built using [GitHub Pages](https://pages.github.com/). 
 
 [Example of Github Maps](./Diagrams.md)
+[Link to A First Level Heading](#a-first-level-heading)
