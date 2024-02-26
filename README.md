@@ -101,10 +101,61 @@ of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/imag
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture> 
 <!-- Lists !>
+
+
 <!-- You can make an unordered list by preceding one or more lines of text with -, *, or +. -->
-```
+
+
 - George Washington
 * John Adams
 + Thomas Jefferson
-```
+
+<!-- Ordered List -->
+1. James Madison 
+2. James Monroe
+3. John Quincy Adams
+
+<!- Nested Lists --> 
+1.  First list item
+    - First nested list item
+      - Second nested list item
+     
+100. First list item
+     - First nested list item
+       - Second nested list item
+      
+<!-- Tasks list -->
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] \(Optional) Open a followup issue
+
+
+<!-- Mentioning people and teams -->
+@github/support What do you think about these update?
+
+<!-- Using emojis -->
+@octocat :+1: This PR looks great - it's read to merge! :shipit:
+
+<!-- You can create a new paragraph by leaving a blank line between lines of code -->
+
+<!-- Footnotes -->
+Here is a simple footnote[^1].
+
+A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks with a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+<!-- Alerts -->
+<!-- Alerts are a Markdown extension based on the blockquote syntax that you can use to emphasize critical information. On GitHub, they are displayed with distinctive colors and icons to indicate the significance of the content.
+
+Use alerts only when they are crucial for user success and limit them to one or two per article to prevent overloading the reader. Additionally, you should avoid placing alerts consecutively. Alerts cannot be nested within other elements.
+
+To add an alert, use a special blockquote line specifying the alert type, followed by the alert information in a standard blockquote. Five types of alerts are available: -->
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 
