@@ -76,3 +76,8 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+<!-- Links -->
+This site was built using [GitHub Pages](https://pages.github.com/). 
+
+[Example of Github Maps](./Diagrams.md)
