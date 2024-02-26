@@ -82,5 +82,5 @@ puts markdown.to_html
 <!-- Links -->
 This site was built using [GitHub Pages](https://pages.github.com/). 
 
-[Example of Github Maps](./Diagrams.md)
-[Link to A First Level Heading](#a-first-level-heading)
+Link to a Relative Document[Example of Github Maps](./Diagrams.md)
+Link to a Section[Link to A First Level Heading](#a-first-level-heading)
