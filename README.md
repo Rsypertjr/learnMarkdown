@@ -4,7 +4,7 @@ edit readme file to learn markdown
 
 <!-- Headings -->
 
-# A first-level heading
+# A First Level Heading
 ## A second-level heading
 ### A third-level heading
 
@@ -47,6 +47,7 @@ git commit
 ```
 
 <!-- Fenced Code Blocks -->
+
 ```
 
 function test() {
@@ -54,6 +55,7 @@ function test() {
 }
 
 ```
+[Link to A First Level Heading](a-first-level-heading)
 
 <!-- Tip: To preserve your formatting within a list, make sure to indent non-fenced code blocks by eight spaces. -->
 <!-- To display triple backticks in a fenced code block, wrap them inside quadruple backticks. -->
